@@ -1,3 +1,6 @@
+### THIS REPOSITORY INCLUDES CODE PROVIDED VIA THE BOOTCAMP AND BY THE INSTRUCTORS###
+
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
